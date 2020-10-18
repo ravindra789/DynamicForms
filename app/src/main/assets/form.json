@@ -1,0 +1,77 @@
+[
+  {
+    "question_number": 1,
+    "field_name": "Name",
+    "type": "text",
+    "required": true,
+    "input_type": "text",
+    "minLength": 0,
+    "maxLength": 0,
+    "min": 0,
+    "max": 0,
+    "isValueValidate": false
+  },
+  {
+    "question_number": 1,
+    "field_name": "Name",
+    "type": "edit_text",
+    "required": true,
+    "input_type": "text",
+    "minLength": 0,
+    "maxLength": 30,
+    "min": 0,
+    "max": 50,
+    "isValueValidate": false
+  },
+
+
+  {
+    "question_number": 2,
+    "field_name": "Age",
+    "type": "text",
+    "required": false,
+    "input_type": "text",
+    "minLength": 0,
+    "maxLength": 0,
+    "min": 0,
+    "max": 0,
+    "isValueValidate": false
+  },
+  {
+    "question_number": 2,
+    "field_name": "Age",
+    "type": "edit_text",
+    "required": false,
+    "input_type": "number",
+    "minLength": 1,
+    "maxLength": 2,
+    "min": 18,
+    "max": 65,
+    "isValueValidate": true
+  },
+
+  {
+    "question_number": 3,
+    "field_name": "Address",
+    "type": "text",
+    "required": false,
+    "input_type": "text",
+    "minLength": 0,
+    "maxLength": 0,
+    "min": 0,
+    "max": 0,
+    "isValueValidate": false
+  },
+  {
+    "question_number": 3,
+    "field_name": "Address",
+    "type": "edit_text",
+    "required": false,
+    "input_type": "multiline",
+    "minLength": 4,
+    "maxLength": 50,
+    "min": 2,
+    "max": 100,
+    "isValueValidate": false
+  }
+]

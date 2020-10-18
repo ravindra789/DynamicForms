@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DynamicFormsGenerator</string>
+
+    //login activity
+    <string name="prompt_user_name">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="btn_submit">Submit</string>
+    <string name="no_data">NO DATA</string>
+    <string name="more">more</string>
+    <string name="log_out">Log Out</string>
+
+
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+</resources>
